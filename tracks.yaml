@@ -42,7 +42,7 @@ tracks:
       :{release_inc} --os-name rhel
     devel_branch: ros-jazzy
     last_release: ros-jazzy
-    last_version: 0.0.1
+    last_version: 0.0.2
     name: kinematics_interface_pinocchio
     patches: null
     release_inc: '1'
